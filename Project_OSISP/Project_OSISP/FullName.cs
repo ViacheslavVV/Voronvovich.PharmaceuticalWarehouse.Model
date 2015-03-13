@@ -1,7 +1,5 @@
-﻿namespace Project_OSISP
+﻿namespace Voronovich.PharmaceuticalWarehouse.Model
 {
-    using Voronovich.PharmaceuticalWarehouse.Model;
-
     /// <summary>
     /// The full name.
     /// </summary>
